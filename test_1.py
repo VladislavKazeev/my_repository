@@ -1,1 +1,1 @@
-print('Blyad')
+print('Blyadina')
