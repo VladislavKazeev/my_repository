@@ -1,6 +1,6 @@
 # MyProfile app
 
-SEPARATOR = '-' * 42
+SEPARATOR = '-' * 44
 
 # user profile
 username = ''
